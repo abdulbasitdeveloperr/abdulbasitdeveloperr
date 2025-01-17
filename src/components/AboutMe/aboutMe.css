@@ -1,176 +1,40 @@
-/* .about-me {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
-}
-.about-me-top {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-.about-me-bottom {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 3rem;
-    width: 100%;
-}
-.about-me-bottom-cards{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 80%;
-}
-.about-me-bottom-image{
-    height: 400px;
-    width: 700px;
-    border-radius: 3rem;
-}
-.about-me-image{
-    height: 100%;
-    width: 100%;
-    border-radius: 3rem;
-} */
-
-
-
-/* MAIN */
-
-
-/* 
 .about-me {
-    padding: 50px;
-    background-color: #f9f9f9;
-    text-align: center;
-  }
-  
-  .about-me h2 {
-    font-size: 30px;
-    margin-bottom: 20px;
-  }
-  
-  .about-me p {
-    font-size: 18px;
-    color: #555;
-    line-height: 1.6;
-  }
-   */
-
-
-   /* .about-me {
-    padding: 50px;
-    text-align: center;
-    background-color: #f9f9f9;
-  }
-  
-  .about-me h3 {
-    font-size: 20px;
-    color: #777;
-  }
-  
-  .about-me h2 {
-    font-size: 36px;
-    margin-bottom: 20px;
-  }
-  
-  .about-me-container {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-  }
-  
-  .profile-image img {
-    border-radius: 10px;
-    width: 200px;
-    height: auto;
-  }
-  
-  .about-me-content {
-    max-width: 600px;
-  }
-  
-  .about-me-content p {
-    font-size: 18px;
-    color: #555;
-    line-height: 1.6;
-    margin-bottom: 20px;
-  }
-  
-  .about-me-cards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    gap: 20px;
-  }
-  
-  .card {
-    background: #fff;
-    border: 1px solid #ddd;
-    border-radius: 10px;
-    padding: 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    text-align: center;
-    width: 150px;
-  }
-  
-  .card h4 {
-    font-size: 18px;
-    margin-bottom: 10px;
-    color: #333;
-  }
-  
-  .card p {
-    font-size: 14px;
-    color: #666;
-  }
-  
-  .tools {
-    margin-top: 20px;
-    font-size: 16px;
-    color: #444;
-  }
-   */
-   .about-me {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: column;
 }
 
 .about-me-top {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
 
 .about-me-bottom {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 3rem;
-    width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  width: 100%;
 }
 
 .about-me-bottom-cards{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    width: 80%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
 }
 
 .about-me-bottom-image{
-    height: 400px;
-    width: 700px;
-    border-radius: 3rem;
+  height: 400px;
+  width: 700px;
+  border-radius: 3rem;
 }
 
 .about-me-image{
-    height: 100%;
-    width: 100%;
-    border-radius: 3rem;
+  height: 100%;
+  width: 100%;
+  border-radius: 3rem;
 }
