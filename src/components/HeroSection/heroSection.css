@@ -1,0 +1,95 @@
+.hero-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    gap: 3rem;
+}
+.hero-section-top {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+}
+.hero-section-top-image {
+    /* height: 150px;
+    width: 150px;
+    border-radius: 8rem; */
+    height: 200px; /* Adjust height */
+  width: 200px;  /* Adjust width */
+  border-radius: 8rem;  
+}
+.profile-image {
+    height: 100%;
+    width: 100%;
+    border-radius: 8rem;
+}
+.hero-section-top-text {
+    font-size: 2rem;
+    font-weight: 300;
+}
+.hero-section-middle {
+    width: 50%;
+    margin: 0 auto;
+}
+.hero-section-middle-heading {
+    font-size: 3rem;
+    text-align: center;
+    /* width: 80%; */
+    line-height: 3rem;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.hero-section-middle-desc {
+    text-align: center;
+    font-size: 1.2rem;
+}
+.hero-section-bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.hero-section-bottom-buttons {
+    background: transparent;
+    padding: 1rem 2rem;
+    border: 1px solid black;
+    border-radius: 3rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
+.hero-section-bottom-buttons:hover {
+    background-color: rgb(12, 12, 12);
+    color: whitesmoke;
+    transition: 0.5s all ease;
+}
+
+.waving-hand {
+    display: inline-block;
+    animation: smoothWave 2s ease-in-out infinite;
+    transform-origin: 70% 70%;
+  }
+  
+  @keyframes smoothWave {
+    0% {
+      transform: rotate(0deg);
+    }
+    25% {
+      transform: rotate(15deg);
+    }
+    50% {
+      transform: rotate(0deg);
+    }
+    75% {
+      transform: rotate(-15deg);
+    }
+    100% {
+      transform: rotate(0deg);
+    }
+  }
+  
+  
+  
+  
