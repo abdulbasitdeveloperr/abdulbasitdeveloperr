@@ -1,7 +1,7 @@
 
 import React from 'react';
 import './heroSection.css';
-import profilePicture from '../../assets/image.png'; // Ensure this path is correct
+import profilePicture from '../../assets/1.png'; // Ensure this path is correct
 import { MdWavingHand } from 'react-icons/md';
 
 const HeroSection = () => {

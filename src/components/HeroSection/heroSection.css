@@ -14,9 +14,9 @@
     gap: 0.4rem;
 }
 .hero-section-top-image {
-    /* height: 150px;
+     height: 150px;
     width: 150px;
-    border-radius: 8rem; */
+    border-radius: 8rem; 
     height: 200px; /* Adjust height */
   width: 200px;  /* Adjust width */
   border-radius: 8rem;  

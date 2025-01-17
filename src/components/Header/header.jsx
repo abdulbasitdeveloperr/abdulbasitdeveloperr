@@ -77,7 +77,7 @@ const Header = () => {
     return (
         <header className='header'>
             <div className='header-logo'>
-                <h1>Abdul Basit</h1>
+                <h1>Abdul Basit </h1>
                 <span className='name-dot'></span>
             </div>
             <ul className='header-list-items'>
