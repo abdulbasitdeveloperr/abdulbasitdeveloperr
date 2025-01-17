@@ -2,13 +2,15 @@
 
 import React from 'react'
 import './AboutMe.css'
-import aboutMeImage from '../../assets/images.jpg'
+import aboutMeImage from '../../assets/1.png'
 import Card from '../sharedComponents/Card'
 import { BiCodeAlt } from 'react-icons/bi'
 import { CgCodeSlash } from 'react-icons/cg'
 import { VscVscode } from 'react-icons/vsc'
 import { IoGitMerge, IoLogoFigma, IoLogoFirebase } from 'react-icons/io5'
 import { DiMongodb } from 'react-icons/di'
+import { GrProjects } from "react-icons/gr";
+import { FaGraduationCap } from "react-icons/fa6";
 
 const AboutMe = () => {
 
@@ -21,12 +23,12 @@ const AboutMe = () => {
         {
             cardheading: "Education",
             carddesc: "BSCS from ABC UNI, Master",
-            cardicon: <CgCodeSlash />
+            cardicon: <FaGraduationCap />
         },
         {
             cardheading: "Projects",
             carddesc: "Build portfolio website.",
-            cardicon: <CgCodeSlash />
+            cardicon: <GrProjects />
         }
     ]
 
