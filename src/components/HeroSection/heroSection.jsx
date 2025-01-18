@@ -1,6 +1,6 @@
 
 import React from 'react';
-import './heroSection.css';
+import './HeroSection.css';
 import profilePicture from '../../assets/1.png'; // Ensure this path is correct
 import { MdWavingHand } from 'react-icons/md';
 

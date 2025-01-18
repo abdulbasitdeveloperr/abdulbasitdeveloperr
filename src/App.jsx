@@ -1,9 +1,9 @@
 
 import React from 'react'
-import Header from './components/Header/header'
-import HeroSection from './components/HeroSection/heroSection'
+import Header from './components/header/Header'
+import HeroSection from './components/heroSection/HeroSection'
 import './App.css'
-import AboutMe from './components/AboutMe/aboutMe'
+import AboutMe from './components/aboutMe/AboutMe'
 
 const App = () => {
   return (
