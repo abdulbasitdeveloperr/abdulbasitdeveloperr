@@ -12,6 +12,7 @@ const App = () => {
       <div className='main-component-wrapper'>
         <HeroSection />
         <AboutMe />
+        
       </div>
     </div>
   )

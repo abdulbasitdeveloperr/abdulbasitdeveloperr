@@ -1,6 +1,6 @@
 
 import React from 'react'
-import './Header.css'
+import './header.css'
 import { FaLocationArrow, FaRegMoon } from 'react-icons/fa'
 const Header = () => {
     const headerListItems = [

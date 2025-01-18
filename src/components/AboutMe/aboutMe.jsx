@@ -1,7 +1,7 @@
 
 
 import React from 'react'
-import './AboutMe.css'
+import './aboutMe.css'
 import aboutMeImage from '../../assets/1.png'
 import Card from '../sharedComponents/Card'
 import { BiCodeAlt } from 'react-icons/bi'
